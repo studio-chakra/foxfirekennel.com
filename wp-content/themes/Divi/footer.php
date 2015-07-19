@@ -37,7 +37,7 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 					}
 				?>
 
-						<p id="footer-info"><?php printf( __( 'Designed by %1$s | Powered by %2$s', 'Divi' ), '<a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a>', '<a href="http://www.wordpress.org">WordPress</a>' ); ?></p>
+						<p id="footer-info">Website by <a href="http://ryanbelisle.com" title="Website Designer">Ryan Belisle</a></p>
 					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
