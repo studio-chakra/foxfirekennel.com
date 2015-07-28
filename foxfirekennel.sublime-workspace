@@ -329,10 +329,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs/foxfirekennel.com"
+		"/Applications/MAMP/htdocs/foxfirekennel.com",
+		"/Applications/MAMP/htdocs/foxfirekennel.com/wp-content",
+		"/Applications/MAMP/htdocs/foxfirekennel.com/wp-content/themes",
+		"/Applications/MAMP/htdocs/foxfirekennel.com/wp-content/themes/Divi"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/foxfirekennel.com/wp-content/themes/Divi/footer.php",
 		"/Applications/MAMP/htdocs/rippleworks.org/sftp-config.json",
 		"/Applications/MAMP/htdocs/rippleworks.org/wp-content/themes/sink_rippleworks/assets/css/style_update.css",
 		"/Applications/MAMP/htdocs/rippleworks.org/wp-content/themes/sink_rippleworks/assets/css/style_unminified.css",
@@ -459,8 +463,7 @@
 		"/Applications/MAMP/htdocs/picnet/soapbox-templates/compete.nonprofitsoapbox.com/compete/favicon.ico",
 		"/Applications/MAMP/htdocs/picnet/soapbox-templates/compete.nonprofitsoapbox.com/compete/sftp-config.json",
 		"/Applications/MAMP/htdocs/picnet/soapbox-templates/coastguardfdn.nonprofitsoapbox.com/cgfrwd/css/app.min.css",
-		"/Applications/MAMP/htdocs/picnet/soapbox-templates/coastguardfdn.nonprofitsoapbox.com/cgfrwd/index.php",
-		"/Applications/MAMP/htdocs/picnet/soapbox-templates/coastguardfdn.nonprofitsoapbox.com/cgfrwd/js/app.js"
+		"/Applications/MAMP/htdocs/picnet/soapbox-templates/coastguardfdn.nonprofitsoapbox.com/cgfrwd/index.php"
 	],
 	"find":
 	{
